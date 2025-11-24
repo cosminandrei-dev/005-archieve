@@ -1,0 +1,5 @@
+{
+  "name": "Social Spectrum",
+  "description": "A dissertation demo dashboard for identifying user opinions from social media using a transparent 'Glass Box' AI pipeline.",
+  "requestFramePermissions": []
+}
